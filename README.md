@@ -30,10 +30,6 @@ java-algorithms/
 │   ├── ConditionalStatements.java
 │   ├── Loops.java
 │   ├── Functions.java
-│   ├── Arrays_Basics.java
-│   ├── Strings_Basics.java
-│   ├── OOP_Basics.java
-│   └── ExceptionHandling.java
 │
 ├── arrays/
 │   ├── two_sum.java
